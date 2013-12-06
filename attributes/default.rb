@@ -1,4 +1,5 @@
 default["package_list"] = [
 "strace",
-"screen"
+"screen",
+"mlocate"
 ]
